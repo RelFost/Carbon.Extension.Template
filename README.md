@@ -25,7 +25,6 @@ This project is a template designed to simplify the development of extensions fo
 ├── src
 │   ├── CarbonExtension.Template.csproj
 │   └── ExtensionEntrypoint.cs
-├── CarbonExtensionTemplate.cs
 └── .gitignore
 ```
 
